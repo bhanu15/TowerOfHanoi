@@ -11,7 +11,7 @@ public class TowerOfHanoi {
 	
 	public void moverTower(Stack<String> source , Stack<String> destionation , Stack<String> temp , int n){
 		if(n>0){
-			System.out.println("---------N := "+n+" :---------");
+			System.out.println("---------N := "+n+" :-----gg----");
 			System.out.println(" source "+source);
 			System.out.println(" temp "+temp);
 			System.out.println("destionation"+destionation);
